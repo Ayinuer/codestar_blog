@@ -1,0 +1,14 @@
+[
+  {
+    "model": "blog.post",
+    "pk": 3,
+    "fields": {
+      "title": "Learning Django",
+      "slug": "learning-django",
+      "author": 1,
+      "content": "Django is a powerful framework.",
+      "status": 1,
+      "created_on": "2024-01-01T10:00:00Z"
+    }
+  }
+]
